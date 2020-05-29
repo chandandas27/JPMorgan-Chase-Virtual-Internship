@@ -12,7 +12,7 @@ This repository contains the submitted patch files of the various tasks assigned
 
 
 ## My Certificate of Completion 
-![](https://github.com/chandandas27/JPMorgan-Chase-Virtual-Internship/blob/master/Intership_completion_certificate.pdf)
+[](https://github.com/chandandas27/JPMorgan-Chase-Virtual-Internship/blob/master/Intership_completion_certificate.pdf)
 
 
 ## For any queries/doubts:
